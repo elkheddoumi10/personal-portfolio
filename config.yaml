@@ -28,6 +28,10 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   background: /images/site/acceuil.jpg
+  logo:
+    main: /images/site/karim_logo.png
+    inverted: /images/site/karim_logo.png
+    favicon: /images/site/karim_logo.png
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
 
   # specify whether you want to write some blog posts or not
